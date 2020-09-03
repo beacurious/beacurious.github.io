@@ -1,5 +1,3 @@
-## Belinda Fabian
-
 ## About me
 
 I’m a biologist from Sydney, Australia. I studied at Macquarie University for a Masters of Research in plant biology. Now I’m working on a PhD where I'm using genomics to study biocontrol activities of a beneficial bacteria that colonises plant roots and can protect crops against disease.
