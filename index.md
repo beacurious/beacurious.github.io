@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Belinda Fabian
 
-You can use the [editor on GitHub](https://github.com/beacurious/beacurious.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I’m a biologist from Sydney, Australia. I studied at Macquarie University for a Masters of Research in plant biology. Now I’m working on a PhD where I'm using genomics to study biocontrol activities of a beneficial bacteria that colonises plant roots and can protect crops against disease.
 
-### Markdown
+When I'm not engrossed in scientific work I enjoy lots of crafty hobbies and I teach mixed media art. In my previous life I was an accountant and I enjoy breaking down accounting concepts for small business owners and assisting them to set up bookkeeping and other systems for their businesses.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Communication and Teaching
 
-# Header 1
-## Header 2
-### Header 3
+A big part of science for me is communicating ideas – whether that’s to students in a practical class, colleagues, in a journal article, at a conference or with friends over a pizza. Lots of people don’t know what scientists actually do or the diversity of organisms that surround us every day, so I showcase these aspects to students and the public. 
 
-- Bulleted
-- List
+I love that 'ah ha!' moment that comes from teaching. I’m a tutor in Biological Sciences and Molecular Sciences and I’m passionate about sharing the incredible complexity of the natural world. My favourite moment of the semester comes when students who previously had no interest in plants say 'wow, plants are really interesting!'.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beacurious/beacurious.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
